@@ -13,4 +13,4 @@
 
 6. **Image**: React Native applications use the Image component to display images. It can handle a number of image types, including SVG, JPEG, GIF, and PNG. Network URLs or local resources can be used to load images. For improved performance, the Image component also offers features like cropping, scaling, and caching
 
-[Screenshot](https://github.com/AMEHE17/-rn-assignment3-11356821/assets/screenshot.png)
+[Screenshot]!(../assets/screenshot.png)
